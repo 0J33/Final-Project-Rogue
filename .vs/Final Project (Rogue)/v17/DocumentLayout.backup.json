@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|d:\\other\\unity\\projects\\final project (rogue)\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\assets\\scripts\\camfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|d:\\other\\unity\\projects\\final project (rogue)\\assets\\scripts\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2FD02F-CA78-C6FE-A147-CCC6F3CFDDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrowController.cs",
+              "DocumentMoniker": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\ArrowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArrowController.cs",
+              "ToolTip": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\ArrowController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArrowController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:23:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:08:09.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAJcBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:29:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CamFollowPlayer.cs",
+              "DocumentMoniker": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\CamFollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CamFollowPlayer.cs",
+              "ToolTip": "D:\\Other\\UNITY\\Projects\\Final Project (Rogue)\\Assets\\Scripts\\CamFollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CamFollowPlayer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:24:59.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
